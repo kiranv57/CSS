@@ -19,5 +19,5 @@ public class LessonOne {
         // Display the result 
         System.out.println("There are " + daysInWeek + "days in a week, Your starting day in the month is: " + startingDay);
     }  
-    
+    //end
 }
