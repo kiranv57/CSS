@@ -13,6 +13,7 @@ body {
   position: relative;
 }
 
+/* center contained element using positioning and transform */
 .container {
   background-color: crimson;
   position: absolute;
